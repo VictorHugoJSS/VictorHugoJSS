@@ -1,6 +1,16 @@
 # Hello! Welcome to my Github profile.
-## My name is Victor Hugo José Sales da Silva and my nickname is VictorHugoJSS
+### My name is Victor Hugo José Sales da Silva and my nickname is VictorHugoJSS
 
-![VictorHugoJSS's Stats](https://github-readme-stats.vercel.app/api?username=VictorHugoJSS&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![VictorHugoJSS's Streak](https://github-readme-streak-stats.herokuapp.com/?user=VictorHugoJSS&theme=vue-dark&hide_border=true)
-![VictorHugoJSS's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHugoJSS&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+## Github Stats
+<div>
+    <a href="https://github.com/VictorHugoJSS">
+    <img loading="lazy" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHugoJSS&layout=compact&langs_count=7&theme=dracula"/>
+    <img loading="lazy" height="50%" src="https://github-readme-stats.vercel.app/api?username=VictorHugoJSS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+## Programming languages
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/>
+          
+          
+          
