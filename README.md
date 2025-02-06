@@ -17,5 +17,5 @@
     <a href="mailto:vh9325862@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/victor-hugo-jos%C3%A9-sales-da-silva-728262266" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://x.com/VictorHugoJSS" target="_blank"><img loading="lazy" src="https://img.shields.io/twitter/follow/VictorHugoJSS?style=for-the-badge&logo=x
-    " target="_blank"></a>
+    "></a>
 </div>
